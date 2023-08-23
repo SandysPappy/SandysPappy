@@ -1,4 +1,9 @@
-Tyler VanderMate
+# Tyler VanderMate
+
+### School / Personal Account
+### UCF MSCV Student
+
+## GO KNIGHTS!
 
 <!---
 SandysPappy/SandysPappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
