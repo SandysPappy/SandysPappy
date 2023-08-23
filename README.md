@@ -1,6 +1,4 @@
-Officially: Tyler VanderMate
-
-Unofficially: 🧽🐿️@'yer Pappy Speaking on the UCF cs discord🧽🐿️
+Tyler VanderMate
 
 <!---
 SandysPappy/SandysPappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
